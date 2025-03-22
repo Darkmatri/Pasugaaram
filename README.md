@@ -54,24 +54,24 @@ Pasugarram is a web-based platform that promotes organic products and their bene
 
 ## 📚 Project Structure <a name = "ProjectStructure"></a>
 .
-├── index.html                # The main homepage of the website.
-├── about.html                # The "About Us" page with details about the company.
-├── vegetables.html           # A page showcasing vegetable products.
-├── fruits.html               # A page showcasing fruit products.
-├── honey.html                # A page showcasing honey products.
-├── milkproducts.html         # A page showcasing milk and dairy products.
-├── spice.html                # A page showcasing spices.
-├── sauce.html                # A page showcasing sauces.
-├── freshjuice.html           # A page showcasing fresh juices.
-├── fertilizer.html           # A page showcasing fertilizers.
-├── cart.html                 # A page for the shopping cart (under development).
-├── login.html                # A login page for user authentication (under development).
-├── faq.html                  # A Frequently Asked Questions page.
-├── terms&conditions.html     # A page for terms and conditions.
-├── style.css                 # The main CSS file for styling the website.
-├── script.js                 # The JavaScript file for interactive elements.
-├── images/                   # A folder containing all the images used on the website.
-├── vegge/                    # A folder containing images of vegetables.
+├── index.html                # The main homepage of the website.<br>
+├── about.html                # The "About Us" page with details about the company.<br>
+├── vegetables.html           # A page showcasing vegetable products.<br>
+├── fruits.html               # A page showcasing fruit products.<br>
+├── honey.html                # A page showcasing honey products.<br>
+├── milkproducts.html         # A page showcasing milk and dairy products.<br>
+├── spice.html                # A page showcasing spices.<br>
+├── sauce.html                # A page showcasing sauces.<br>
+├── freshjuice.html           # A page showcasing fresh juices.<br>
+├── fertilizer.html           # A page showcasing fertilizers.<br>
+├── cart.html                 # A page for the shopping cart (under development).<br>
+├── login.html                # A login page for user authentication (under development).<br>
+├── faq.html                  # A Frequently Asked Questions page.<br>
+├── terms&conditions.html     # A page for terms and conditions.<br>
+├── style.css                 # The main CSS file for styling the website.<br>
+├── script.js                 # The JavaScript file for interactive elements.<br>
+├── images                    # A folder containing all the images used on the website.<br>
+├── vegge                     # A folder containing images of vegetables.<br>
 
 
 ## 👩‍🏫 How to Run <a name = "How-to-Run"></a>
