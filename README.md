@@ -53,7 +53,7 @@ Pasugarram is a web-based platform that promotes organic products and their bene
 - **Footer**: Includes company information, policies, and helpful links.
 
 ## 📚 Project Structure <a name = "ProjectStructure"></a>
-.
+
 ├── index.html................# The main homepage of the website.<br>
 ├── about.html................# The "About Us" page with details about the company.<br>
 ├── vegetables.html...........# A page showcasing vegetable products.<br>
